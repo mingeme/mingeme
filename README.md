@@ -8,6 +8,7 @@
 <h5 align="center">
   <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
   <img alt="Spring" src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+  <img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
   <img alt="Redis" src="https://img.shields.io/badge/Redis-234479?style=flat-square&logo=redis&logoColor=white" />
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=white" />
   <img alt="Vue" src="https://img.shields.io/badge/-Vue-%2335495e?style=flat-square&logo=vue.js&logoColor=white" />
