@@ -49,7 +49,13 @@
       <td><img alt="Issues" src="https://img.shields.io/github/issues/mingeme/imgood?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/mingeme/imgood?style=flat-square&labelColor=343b41"/></td>
     </tr>
-    
+    <tr>
+      <td><a href="https://github.com/mingeme/lazyv2ex"><b>lazyv2ex</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/mingeme/lazyv2ex?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/mingeme/lazyv2ex?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/mingeme/lazyv2ex?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/mingeme/lazyv2ex?style=flat-square&labelColor=343b41"/></td>
+    </tr>
   </tbody>
 </table>
 </br>
